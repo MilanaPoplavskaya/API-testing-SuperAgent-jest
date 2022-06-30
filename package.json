@@ -1,0 +1,30 @@
+{
+  "name": "api-testing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jest:test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilanaPoplavskaya/API-testing-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilanaPoplavskaya/API-testing-jest/issues"
+  },
+  "homepage": "https://github.com/MilanaPoplavskaya/API-testing-jest#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.3",
+    "@types/superagent": "^4.1.15",
+    "jest": "^28.1.1",
+    "jest-html-reporters": "^3.0.9",
+    "superagent": "^8.0.0",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
+}
