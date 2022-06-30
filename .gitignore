@@ -3,3 +3,5 @@
 jest.config.js
 tsconfig.json
 .prettierrc
+/jest-html-reporters-attach
+jest_html_reporters.html
